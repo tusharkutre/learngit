@@ -1,3 +1,5 @@
-public class div {
-    
+ public class div {
+    public static void name() {
+        
+    }
 }
